@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
