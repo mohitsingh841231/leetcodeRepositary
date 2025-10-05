@@ -8,10 +8,22 @@ class Solution {
         //     }
         // }
         // return false;
-        Arrays.sort(arr);
-        for(int i =0;i<arr.length-1;i++){
-            if(arr[i]== arr[i+1])return true;
+
+
+        // Arrays.sort(arr);
+        // for(int i =0;i<arr.length-1;i++){
+        //     if(arr[i]== arr[i+1])return true;
+        // }
+        // return false;
+
+        HashSet<Integer> mp = new HashSet<>();
+        for(int i =0;i<arr.length;i++){
+            if(mp.contains(arr[i]))return true;
+            mp.add(arr[i]);
+
         }
         return false;
+
+
     }
 }
