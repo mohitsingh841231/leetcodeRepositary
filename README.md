@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0782-jewels-and-stones) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
