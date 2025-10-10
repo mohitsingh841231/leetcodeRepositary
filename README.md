@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0326-power-of-three) |
 ## Recursion
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
