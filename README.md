@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
 ## Linked List
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
