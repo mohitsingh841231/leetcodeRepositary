@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
