@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
