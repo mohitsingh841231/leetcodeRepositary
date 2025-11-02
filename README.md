@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
