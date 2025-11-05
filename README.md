@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
