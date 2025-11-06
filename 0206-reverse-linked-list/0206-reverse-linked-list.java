@@ -47,8 +47,8 @@ class Solution {
         }
         temp = head;
         while(temp != null){
-            temp.val = st.peek();
-            st.pop();
+            temp.val = st.pop();
+            // st.pop();
             temp = temp.next;
         }
         return head;
