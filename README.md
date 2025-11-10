@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
 | ------- |
