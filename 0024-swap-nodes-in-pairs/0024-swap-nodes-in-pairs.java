@@ -23,12 +23,23 @@ class Solution {
                 arr.set(i,temp);
             // }
         }
-        ListNode dummy = new ListNode(0);
-        ListNode temp2 = dummy;
-        for(int i=0;i<arr.size();i++){
-            temp2.next =new  ListNode(arr.get(i));
-            temp2 = temp2.next;
+        // ListNode dummy = new ListNode(0);
+        // ListNode temp2 = dummy;
+        // for(int i=0;i<arr.size();i++){
+        //     temp2.next =new  ListNode(arr.get(i));
+        //     temp2 = temp2.next;
+        // }
+        // return dummy.next;
+
+
+
+        temp1 = head;
+        int idx =0;
+        while(temp1 != null){
+            temp1.val = arr.get(idx);
+            temp1 = temp1.next;
+            idx++;
         }
-        return dummy.next;
+        return head;
     }
 }
