@@ -14,20 +14,18 @@
  * }
  */
 class Solution {
-     int countVal =0;
+    //  int countVal =0;
     public int countNodes(TreeNode root) {
-        if(root == null)return 0;
-        countVal++;
-        countNodes(root.left);
-        countNodes(root.right);
-        return countVal;
+         return count(root,0);
+         
         
     }
-    //  static void count(TreeNode root){
-    //     if(root == null)return;
-    //     countVal++;
-    //     count(root.left);
-    //     count(root.right);
+     static int  count(TreeNode root,int countVal){
+        if(root == null)return 0;
         
-    //  }
+        int left = count(root.left,countVal+1);
+        int right = count(root.right, countVal+1);
+        return 1+left + right;
+        
+     }
 }
