@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
