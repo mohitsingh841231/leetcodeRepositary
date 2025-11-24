@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
