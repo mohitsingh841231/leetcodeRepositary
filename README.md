@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1319-unique-number-of-occurrences) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2288-count-operations-to-obtain-zero) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2288-count-operations-to-obtain-zero) |
