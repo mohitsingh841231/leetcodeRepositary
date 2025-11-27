@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Backtracking
