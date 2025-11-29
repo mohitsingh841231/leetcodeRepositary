@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2288-count-operations-to-obtain-zero) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
