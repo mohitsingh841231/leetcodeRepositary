@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
@@ -209,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
