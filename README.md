@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2383-add-two-integers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
