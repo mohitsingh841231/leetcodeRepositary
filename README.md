@@ -403,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
