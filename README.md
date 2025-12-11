@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2383-add-two-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
