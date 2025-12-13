@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0242-valid-anagram) |
@@ -360,11 +362,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -417,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0181-employees-earning-more-than-their-managers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
