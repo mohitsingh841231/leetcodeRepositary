@@ -1,31 +1,17 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    HashMap<Integer,Integer> arr = new HashMap<>();
+   
     
-    public void mode(TreeNode root){
+    public void mode(TreeNode root, HashMap<Integer,Integer> arr){
         if(root == null)return;
       
             arr.put(root.val,arr.getOrDefault(root.val, 0) + 1);
         
-        mode(root.left);
-        mode(root.right);
+        mode(root.left,arr);
+        mode(root.right,arr);
     }
     public int[] findMode(TreeNode root) {
-        mode(root);
+         HashMap<Integer,Integer> arr = new HashMap<>();
+        mode(root,arr);
 
         int maxFreq = 0;
         for (int val : arr.values()) {
