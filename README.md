@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Database
 |  |
