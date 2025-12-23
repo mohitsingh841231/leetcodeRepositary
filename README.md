@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0782-jewels-and-stones) |
+| [1143-longest-common-subsequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1143-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2390-removing-stars-from-a-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
