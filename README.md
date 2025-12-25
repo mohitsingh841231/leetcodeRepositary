@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1046-last-stone-weight) |
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1319-unique-number-of-occurrences) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
