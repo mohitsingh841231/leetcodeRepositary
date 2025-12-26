@@ -22,16 +22,10 @@ class Solution {
 
     private void helper(TreeNode node, int level, List<List<Integer>> result) {
         if (node == null) return;
-
-        // if this level doesn't exist yet, add a new list
         if (result.size() == level) {
             result.add(new ArrayList<>());
         }
-
-        // add the current node’s value to its level list
         result.get(level).add(node.val);
-
-        // recurse for left and right subtrees
         helper(node.left, level + 1, result);
         helper(node.right, level + 1, result);
     }
