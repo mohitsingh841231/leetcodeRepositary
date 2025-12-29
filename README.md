@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0496-next-greater-element-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1046-last-stone-weight) |
@@ -427,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -479,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
 ## Rolling Hash
 |  |
