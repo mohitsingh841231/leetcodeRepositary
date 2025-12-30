@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1319-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
