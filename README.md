@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0224-basic-calculator) |
