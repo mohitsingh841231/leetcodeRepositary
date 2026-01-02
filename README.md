@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
