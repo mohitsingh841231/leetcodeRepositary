@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0841-keys-and-rooms) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0841-keys-and-rooms) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0841-keys-and-rooms) |
 ## Trie
 |  |
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
