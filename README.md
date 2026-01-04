@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1319-unique-number-of-occurrences) |
+| [1390-four-divisors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1390-four-divisors) |
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1922-count-good-numbers) |
