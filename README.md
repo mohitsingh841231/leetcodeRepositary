@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
