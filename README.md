@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0136-single-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0268-missing-number) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0090-subsets-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
