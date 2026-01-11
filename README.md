@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1319-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
