@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2383-add-two-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1748-sum-of-unique-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0258-add-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
