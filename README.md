@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0881-boats-to-save-people) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
