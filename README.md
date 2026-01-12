@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0172-factorial-trailing-zeroes) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0416-partition-equal-subset-sum) |
@@ -568,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
