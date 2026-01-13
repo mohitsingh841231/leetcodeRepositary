@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0875-koko-eating-bananas) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1143-longest-common-subsequence) |
 ## Memoization
