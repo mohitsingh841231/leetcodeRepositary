@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0075-sort-colors) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0416-partition-equal-subset-sum) |
