@@ -1,11 +1,19 @@
 class Solution {
-    int func(int[]cost ,int i,Integer dp[]){
-        if(i>= cost.length)return 0;
-        if(dp[i] != null)return dp[i];
-        return dp[i] = cost[i] + Math.min(func(cost,i+1,dp),func(cost,i+2,dp));
-    }
     public int minCostClimbingStairs(int[] cost) {
-        Integer dp[] =  new Integer[cost.length];
-        return Math.min(func(cost,0,dp),func(cost,1,dp));
+        int n = cost.length;
+        int dp[] = new int[n];
+        dp[0] = cost[0];
+        dp[1] = cost[1];
+        for(int i =2;i<n;i++){
+            
+            if(i>1){
+                dp[i] = cost[i] + Math.min(dp[i-1],dp[i-2]);
+            }
+            else{
+                dp[i] = cost[i] + dp[i-1];
+            }
+        }
+        return Math.min(dp[n-2],dp[n-1]);
+
     }
 }
