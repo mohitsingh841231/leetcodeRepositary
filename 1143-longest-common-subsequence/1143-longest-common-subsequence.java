@@ -3,15 +3,20 @@ class Solution {
         int n = text1.length();
         int m = text2.length();
         Integer dp[][] = new Integer[n][m];
-        return function(n-1,m-1,new StringBuilder(text1),new StringBuilder(text2),dp);
+        for(int i =0;i<n;i++){
+            for(int j =0;j<m;j++){
+                if(text1.charAt(i) == text2.charAt(j)){
+                dp[i][j] = 1 + ((i>0 && j>0) ?  dp[i-1][j-1]: 0);
+                }
+                else{
+                    dp[i][j] = Math.max(
+                   ((i>0) ? dp[i-1][j]:0) , (j > 0) ? dp[i][j-1] : 0);
+                }
+            }
+        }
+        return dp[n-1][m-1];
+        
     }
 
-    private int function(int i, int j, StringBuilder s1, StringBuilder s2, Integer dp[][]) {
-        if(i<0 || j<0)return 0;
-        if(dp[i][j] != null) return dp[i][j];
-        if(s1.charAt(i) == s2.charAt(j)){
-            return 1 + function(i-1,j-1,s1,s2,dp);
-        }
-        return dp[i][j] = Math.max(function(i-1,j,s1,s2,dp),function(i,j-1,s1,s2,dp));
-    }
+    
 }
