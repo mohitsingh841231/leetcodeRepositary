@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0782-jewels-and-stones) |
+| [1092-shortest-common-supersequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1013-fibonacci-number) |
+| [1092-shortest-common-supersequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohitsingh841231/leetcodeRepositary/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
