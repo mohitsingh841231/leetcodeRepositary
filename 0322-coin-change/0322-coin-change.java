@@ -1,30 +1,41 @@
 class Solution {
-  
-    long minimumCoin(int[] coins,int idx ,int sum,long dp[][]){
-       if(idx == coins.length){
-            if (sum == 0) {
-                return 0;
-            }
-            else {
-                return Integer.MAX_VALUE;
-            }
-       }
-       if(dp[idx][sum] != -1)return dp[idx][sum];
-        long skip = minimumCoin(coins , idx+1 , sum , dp);
-        if(sum - coins[idx] < 0)return skip;
-        else{
-            long pick = 1+ minimumCoin(coins , idx , sum - coins[idx], dp);
-            return dp[idx][sum] = Math.min(pick , skip);
-        }
-    }
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
+        long INF = (long) 1e9;
+
         long[][] dp = new long[n][amount + 1];
-for (int i = 0; i < n; i++) {
-    Arrays.fill(dp[i], -1);
-}
-        long ans = minimumCoin(coins,0,amount,dp);
-        return (ans >= Integer.MAX_VALUE)? -1:(int)ans;
-        
+
+        // Initialize dp
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j <= amount; j++) {
+                dp[i][j] = INF;
+            }
+        }
+
+        // Base case: using only coin[0]
+        for (int j = 0; j <= amount; j++) {
+            if (j % coins[0] == 0)
+                dp[0][j] = j / coins[0];
+        }
+
+        // Fill DP table
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j <= amount; j++) {
+
+                // skip current coin
+                long skip = dp[i - 1][j];
+
+                
+                long pick = INF;
+                if (j >= coins[i]) {
+                    pick = 1 + dp[i][j - coins[i]];
+                }
+
+                dp[i][j] = Math.min(pick, skip);
+            }
+        }
+
+        long ans = dp[n - 1][amount];
+        return ans >= INF ? -1 : (int) ans;
     }
 }
